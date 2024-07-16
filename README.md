@@ -16,7 +16,6 @@ This project develops a remote car control handle using the MPU6050 tilt sensor 
 - CCS Compiler or any compatible programming environment
 - Bluetooth communication library
 - MPU6050 library
-  
 ### Steps
 Not Ready
 
