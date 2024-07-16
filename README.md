@@ -40,4 +40,4 @@ Contributions are always welcome!
 ## License 📄
 
 ## Contact 📬
-thanhsang20122003@gmail.com
+Nguyen Thanh Sang - thanhsang20122003@gmail.com
